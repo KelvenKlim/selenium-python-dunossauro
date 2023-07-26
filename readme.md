@@ -1,7 +1,7 @@
 # Learning Selenium with Python
 
 ~~~
-📍This repository contains some algorithms implemented based on studies from Eduardo Mendes' course
+📍This repository contains some algorithms implemented based on studies from Eduardo Mendes 🦕 course
 ~~~
 #
 [Link to the course](https://youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B)
